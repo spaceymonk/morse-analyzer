@@ -1,6 +1,8 @@
 # morse-analyzer
  Analyze, tweak and extract morse code from audio files.
 
+ ![ScreenShot](ss.jpg)
+
 # Installation
 `pip install -r requirements.txt`
 
@@ -9,7 +11,7 @@
 
 # How to Use?
 
-> TODO: video
+> [Video Tutorial](https://youtu.be/m1kWECzDpwM)
 
 1. Load an audio file (only WAV files supported, you have to convert your audio file to WAV)
 2. Adjust the plot.
