@@ -11,7 +11,7 @@
 
 # How to Use?
 
-> [Video Tutorial](https://youtu.be/m1kWECzDpwM)
+> [Video Tutorial](https://youtu.be/KeBg3VXJFjk)
 
 1. Load an audio file (only WAV files supported, you have to convert your audio file to WAV)
 2. Adjust the plot.
